@@ -7,6 +7,8 @@ This one can be configured with bind-mounting and
 with env variables. This image can even form zookeeper cluster
 from env variables only.
 
+Zookeeper is installed from ubuntu repositories on top of 14.04.
+
 ## Usage
 
 ### Env variables
